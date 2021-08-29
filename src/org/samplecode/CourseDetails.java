@@ -17,6 +17,8 @@ public class CourseDetails {
 		CourseDetails c =new CourseDetails();
 		c.javaProgramm();
 		c.pythonProgramm();
+		System.out.println("hai");
+		System.out.println("hellow");
 	}
 
 }
