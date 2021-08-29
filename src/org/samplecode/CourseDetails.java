@@ -19,6 +19,9 @@ public class CourseDetails {
 		c.pythonProgramm();
 		System.out.println("b");
 		System.out.println("c");
+		System.out.println("hai");
+		System.out.println("hellow");
+		
 	}
 
 }
